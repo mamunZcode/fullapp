@@ -1,0 +1,6 @@
+package com.muntasirsapplication.app
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
